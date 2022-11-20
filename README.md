@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### 
+### Evaluated the viability of the project Surfs Up: opening a new site for a business focused on Surf and Ice Cream parlor. Analyzed weather data to be sure the place will have the best temperature to attrack visitors. For this project I used SQLite, analyzed the data in Jupyter Notebook, transformed the data into Pandas Data Frame for better appreciation of the data and perfermed queries to extract specific information regarding the months of June and December.
 
 ---
 
