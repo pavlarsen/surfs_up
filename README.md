@@ -14,7 +14,7 @@ Key findings summary:
 
 ![Captura de pantalla 2022-11-19 a la(s) 12 25 06](https://user-images.githubusercontent.com/113866707/202902898-49d0ca4e-4e60-4f0d-8925-ab6595328286.png)
 
-.
+So June and December are the most important months for Hawaii to receive tourists due to the vacation period from mainland. For the new Surfs Up site fo success it would be important that it can get visitors and maximize attendance during peak season. Furtunately, for this new site, we can conclude that regarding temperature (which is one of the main factors for visitors to choose a surf place) is relatively standard comparing June and December. June has an average temperature of almost 75 degrees while in December we have 71 degrees. Historic max temperatures also rely within the same range: 85 degrees for June and 83 degrees for December. 
 
     
 ---
